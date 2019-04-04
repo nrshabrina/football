@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView" type="id" />
+    <item name="textViewName" type="id" />
+    <item name="Poster" type="id" />
+</resources>
